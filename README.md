@@ -1,0 +1,2 @@
+# Grub2Win-The-Bootloader-That-Refused-to-Die-A-Medieval-Exorcism-Guide
+🏰 Grub2Win: The Cursed Bootloader – A Medieval Removal Guide ⚔️ "A tale of woe and redemption in the land of BIOS and UEFI!"  🔥 Banish the daemon Grubus II! ✔️ Medieval-style exorcism guide ✔️ Sacred bootrec spells &amp; diskpart rites ✔️ Fortify thy realm against future invasions  ⚔️ Star this repo &amp; let thy system boot in peace!
